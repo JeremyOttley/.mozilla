@@ -1,0 +1,2 @@
+# .mozilla
+Firefox Configuration
