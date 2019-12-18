@@ -2,7 +2,7 @@
 
 I have a side bar with Favicons only, I use VIM navigations keys and the top bar autohides because we are set in fullscreen mode at all times.
 
-![](firefox.png)
+![](firefox_firefox.png)
 
 Firstly, install FireFox, log in to your account. Type 'about:config' in address bar and agree to warning. Use search bar to find 'toolkit.legacyUserProfileCustomizations.stylesheets.' set this value to true. Close FireFox.
 
